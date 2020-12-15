@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{EBD3984A-4D55-F6FA-C4EF-22060E671242}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AudioManager.cs">
+    <Files>
+      <File FileName="../rollaball/Assets/Scripts/PlayerController.cs" Line="48" Column="10" />
+      <File FileName="Assets/Scripts/AudioManager.cs" Line="115" Column="31" />
+      <File FileName="Assets/Scripts/Game.cs" Line="79" Column="5" />
+      <File FileName="Assets/Scripts/Saver.cs" Line="15" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="arfoundation" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="AudioManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cbbb7524-6a0a-4fcc-a96c-0cb29fd12744" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
