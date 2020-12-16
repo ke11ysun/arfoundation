@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>52096883776-7kfdddf56rgs6ilu06ffgru443eoldf1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.52096883776-7kfdddf56rgs6ilu06ffgru443eoldf1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC-hMLS_zY8SnUwrd7hJ5zd9oLzaXmKePg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>52096883776</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.DefaultCompany.arfoundationkelly</string>
+	<key>PROJECT_ID</key>
+	<string>arderive-ea7b7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>arderive-ea7b7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:52096883776:ios:667f1f143f2142b8a7d3a5</string>
+</dict>
+</plist>
