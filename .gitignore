@@ -9,6 +9,13 @@ Assets/Materials
 Assets/Prefabs/
 Builds
 .DS_Store
+Assets/.DS_Store
+
+Assets/Editor\ Default\ Resources/
+Assets/ExternalDependencyManager/
+Assets/Firebase/
+Assets/Parse/
+Assets/Plugins/
 
 
 /[Ll]ibrary/
